@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Twitter Searches</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="queryPrompt">Enter Twitter search query here</string>
+    <string name="tagPrompt">Tag your Query</string>
+    <string name="saveDescription">Touch this button to save your tagged search</string>
+</resources>
